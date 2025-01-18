@@ -2,7 +2,7 @@
 title: "A Beginner’s Guide to Managing Data Science Projects: Virtual Environments, Containers, and VMs"
 author: "Tien Nguyen"
 date: "2025-01-18"
-categories: [news, code, analysis]
+categories: [Data Science Tools]
 image: "image.jpg"
 format:
   html:
